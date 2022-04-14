@@ -12,7 +12,7 @@ function generatePicture() {
     const day = document.querySelector('h1')
     const date = document.querySelector('input[type="date"]')
     const description = document.querySelector('p')
-    let link = `https://api.nasa.gov/planetary/apod?api_key=QWFsYYE1WtLW6ehZUMPoaK3uBlGjUpaExt1a0rc5`
+    let link = `https://api.nasa.gov/planetary/apod?api_key=${process.env.API_KEY}`
     if (date.value) {
         link += `&date=${date.value}`
     }

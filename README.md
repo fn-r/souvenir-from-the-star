@@ -9,7 +9,7 @@
 </p>
 
 ## About
-Shows you some eye-catching and delicious drinks.
+Get your souvenir from the star!
 
 <a target="_blank" href="https://souvenirfromthestar.netlify.app/">
     <img src="https://github.com/fn-r/portfolio/blob/main/images/gif/souvenir-from-the-star.gif" width="100%" alt="Souvenir From The Star"/>
